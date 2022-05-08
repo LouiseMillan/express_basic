@@ -1,0 +1,17 @@
+{
+  "name": "express_basic",
+  "version": "1.0.0",
+  "description": "Proyecto 6 LaunchX - Backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./node_modules/jest/bin/jest"
+  },
+  "author": "Millán",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^28.1.0"
+  },
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
